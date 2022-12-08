@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "866895856160",
+    "firebase_url": "https://authentication-e510e-default-rtdb.firebaseio.com",
+    "project_id": "authentication-e510e",
+    "storage_bucket": "authentication-e510e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866895856160:android:50cdd6127c1685640d7245",
+        "android_client_info": {
+          "package_name": "com.example.marvel_heroes_yt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866895856160-s2s7s6tvmlml9ncfbasffku2iput2vbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg6Qz3oH54xhlGlb7f4Ym7uNipKS9iQXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866895856160-s2s7s6tvmlml9ncfbasffku2iput2vbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
